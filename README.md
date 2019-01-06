@@ -17,11 +17,11 @@ Drop me a **line** and why don't you read the license **below**?
 
 ## License
 
-pain - BisteryMrand is provided under CC0 or public domain compatible license
-as this is for archival use
-static capture of each page (barring the individual users more than 2) is given
-some elements are not rendered due to CSS problem and bumblefuck JavaScript that is just
-worst part of this whole fucking thing
-on the other hand
-red dead redemption 2's online is take-two interactive's new bitch to milk
-dry until your wallets are thinned out as much as possible
+- pain - BisteryMrand is provided under CC0 or public domain compatible license
+- as this is for archival use
+- static capture of each page (barring the individual users more than 2) is given
+- some elements are not rendered due to CSS problem and bumblefuck JavaScript that is just
+- worst part of this whole fucking thing
+- on the other hand
+- red dead redemption 2's online is take-two interactive's new bitch to milk
+- dry until your wallets are thinned out as much as possible
